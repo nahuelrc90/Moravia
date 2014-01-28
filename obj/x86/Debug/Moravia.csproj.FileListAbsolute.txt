@@ -1,0 +1,16 @@
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\Moravia.exe
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\Moravia.pdb
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\nunit-console-runner.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\WebDriver.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\WebDriver.Support.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\nunit.util.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\nunit.core.interfaces.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\nunit.core.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\WebDriver.pdb
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\WebDriver.xml
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\WebDriver.Support.pdb
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Debug\WebDriver.Support.xml
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\obj\x86\Debug\Moravia.exe
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\obj\x86\Debug\Moravia.pdb

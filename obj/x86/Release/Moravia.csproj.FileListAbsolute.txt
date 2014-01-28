@@ -1,0 +1,16 @@
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\Moravia.exe
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\Moravia.pdb
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\nunit-console-runner.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\nunit.framework.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\WebDriver.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\WebDriver.Support.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\nunit.util.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\nunit.core.interfaces.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\nunit.core.dll
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\WebDriver.pdb
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\WebDriver.xml
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\WebDriver.Support.pdb
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\bin\Release\WebDriver.Support.xml
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\obj\x86\Release\Moravia.exe
+C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\obj\x86\Release\Moravia.pdb

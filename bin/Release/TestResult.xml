@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\nahuel.muruga\My Documents\Visual Studio 2010\Projects\Moravia\Moravia\bin\Release\Moravia.exe" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-01-24" time="14:30:38">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.3649" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Program Files\NUnit 2.6.3\bin" machine-name="ARROSNBK198" user="nahuel.muruga" user-domain="NEORIS" />
+  <culture-info current-culture="es-AR" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Documents and Settings\nahuel.muruga\My Documents\Visual Studio 2010\Projects\Moravia\Moravia\bin\Release\Moravia.exe" executed="True" result="Failure" success="False" time="59.533" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SeleniumTests" executed="True" result="Failure" success="False" time="59.533" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Login" executed="True" result="Failure" success="False" time="59.531" asserts="0">
+            <results>
+              <test-case name="SeleniumTests.Login.TheLoginTest" executed="True" result="Error" success="False" time="59.530" asserts="1">
+                <failure>
+                  <message><![CDATA[System.InvalidOperationException : Session not found: 035412c0-79f2-4b69-ba04-41b035b0ae01]]></message>
+                  <stack-trace><![CDATA[at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse) in c:\Projects\WebDriver\trunk\dotnet\src\webdriver\Remote\RemoteWebDriver.cs:line 1012
+at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters) in c:\Projects\WebDriver\trunk\dotnet\src\webdriver\Remote\RemoteWebDriver.cs:line 846
+at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value) in c:\Projects\WebDriver\trunk\dotnet\src\webdriver\Remote\RemoteWebDriver.cs:line 877
+at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id) in c:\Projects\WebDriver\trunk\dotnet\src\webdriver\Remote\RemoteWebDriver.cs:line 455
+at OpenQA.Selenium.By.<>c__DisplayClass2.<Id>b__0(ISearchContext context) in c:\Projects\WebDriver\trunk\dotnet\src\webdriver\By.cs:line 102
+at OpenQA.Selenium.By.FindElement(ISearchContext context) in c:\Projects\WebDriver\trunk\dotnet\src\webdriver\By.cs:line 306
+at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by) in c:\Projects\WebDriver\trunk\dotnet\src\webdriver\Remote\RemoteWebDriver.cs:line 330
+at SeleniumTests.Login.TheLoginTest() in C:\Documents and Settings\nahuel.muruga\my documents\visual studio 2010\Projects\Moravia\Moravia\TestFixture.cs:line 46
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
